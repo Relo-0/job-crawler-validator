@@ -1,0 +1,36 @@
+{
+  "languages": [
+    "python", "java", "c#", "c++", "javascript", "typescript", "go", "golang"
+  ],
+  "automation_ui": [
+    "selenium", "playwright", "cypress", "appium"
+  ],
+  "automation_api": [
+    "postman", "rest", "restful", "api", "graphql", "soap"
+  ],
+  "testing_concepts": [
+    "test plan", "test planning", "test case", "test scenario",
+    "test report", "test strategy",
+    "regression", "smoke test", "sanity test",
+    "integration test", "system test", "acceptance test",
+    "functional test", "performance test", "load test", "stress test",
+    "uat", "defect", "bug", "issue tracking"
+  ],
+  "tools_dev": [
+    "git", "github", "gitlab", "bitbucket",
+    "jira", "confluence", "trello",
+    "jenkins", "github actions", "gitlab ci", "ci/cd", "cicd",
+    "docker", "kubernetes", "k8s"
+  ],
+  "data_db": [
+    "sql", "mysql", "postgresql", "mssql", "sql server", "oracle",
+    "mongodb", "redis"
+  ],
+  "os_cloud": [
+    "linux", "ubuntu", "windows",
+    "aws", "gcp", "azure"
+  ],
+  "qa_roles": [
+    "qa", "quality assurance", "sdet", "test engineer", "tester", "automation"
+  ]
+}
