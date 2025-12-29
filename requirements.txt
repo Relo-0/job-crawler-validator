@@ -4,3 +4,5 @@ jsonschema
 pandas
 openpyxl
 lxml
+
+pytest
